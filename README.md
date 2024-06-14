@@ -9,3 +9,6 @@ No Studio D-ID, escolhi o avatar, a voz em português mais adequada a ele e um t
 
 ## Link de Acesso
 [Assista ao vídeo](https://studio.d-id.com/share?id=44369adfed74953aa05a27adac02627f&utm_source=copy)
+
+
+![image](https://github.com/GiulianoCriscuoli/lab-natty-or-not/assets/60347272/52d71b72-342b-4209-a34e-9bd58d61c163)
