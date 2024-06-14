@@ -1,22 +1,11 @@
+# Introdução de Vídeo com IA Generativa
 
+## Descrição
+Vídeo criado com Studio D-ID e roteirizado com Chat GPT. 
+Este projeto consiste apenas em demonstrar uma criação básica da IA de edição de vídeo e um roteiro bem simples.
 
-### Template
+## Processo de Criação
+No Studio D-ID, escolhi o avatar, a voz em português mais adequada a ele e um texto genérico criado pelo Chat GPT.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## Link de Acesso
+[Assista ao vídeo](https://studio.d-id.com/share?id=44369adfed74953aa05a27adac02627f&utm_source=copy)
